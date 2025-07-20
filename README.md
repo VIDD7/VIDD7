@@ -1,9 +1,7 @@
+<img src="./WELCOME.gif" alt="welcome gif" width="600">
+
 
 ## 👋 Hello World! I'm David Guntoro
-
-<p align="center">
-  <img src="./WELCOME.gif" alt="welcome gif" width="100%" style="max-width: 900px; border-radius: 10px;">
-</p>
 
 I’m a passionate **web developer** and **network engineer** who loves exploring the world of **cybersecurity**, **web technologies**, and **system administration**.  
 Currently focusing on **Web developer**, and **Linux-based networking solutions**.
