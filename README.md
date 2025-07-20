@@ -1,6 +1,9 @@
 
 ## 👋 Hello World! I'm David Guntoro
-<img src="./WELCOME.gif" alt="welcome gif" width="100%">
+
+<p align="center">
+  <img src="./WELCOME.gif" alt="welcome gif" width="100%" style="max-width: 900px; border-radius: 10px;">
+</p>
 
 I’m a passionate **web developer** and **network engineer** who loves exploring the world of **cybersecurity**, **web technologies**, and **system administration**.  
 Currently focusing on **Web developer**, and **Linux-based networking solutions**.
@@ -33,7 +36,7 @@ Currently focusing on **Web developer**, and **Linux-based networking solutions*
 ### 📫 Let's Connect
 
 - 📧 Email: [xirooseven@gmail.com](mailto:xirooseven@gmail.com)
-- 🌐 Website: [https://vstra.my.id](https://xiro7.com)
+- 🌐 Website: [https://vstra.my.id](https://vstra.my.id)
 - 💬 Telegram: [@vidynnn](https://t.me/@vidynnn)
 
 ---
