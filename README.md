@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**VIDD7/VIDD7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello World! I'm David Guntoro
+<img src="./WELCOME.gif" alt="welcome gif" width="100%">
 
-Here are some ideas to get you started:
+I’m a passionate **web developer** and **network engineer** who loves exploring the world of **cybersecurity**, **web technologies**, and **system administration**.  
+Currently focusing on **Web developer**, and **Linux-based networking solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🚀 About Me
+
+- 🎓 Student in **Computer & Network Engineering**  
+- 💻 Exploring the world of **ethical hacking**, **network routing**, and **web systems**  
+- 🔐 Security enthusiast with a focus on **real-world pentesting**
+
+---
+
+### 🛠️ Skills
+
+`Pentesting` • `Network Security` • `Linux` • `OpenWRT` • `MikroTik` • `PHP` • `Laravel` • `Bash Scripting`
+
+---
+
+### 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VIDD7&show_icons=true&theme=tokyonight">
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [xirooseven@gmail.com](mailto:xirooseven@gmail.com)
+- 🌐 Website: [https://vstra.my.id](https://xiro7.com)
+- 💬 Telegram: [@vidynnn](https://t.me/@vidynnn)
+
+---
+
+⭐️ *Always learning. Always growing.* ⭐️
