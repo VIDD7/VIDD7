@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./WELCOME.gif" alt="welcome gif" width="700">
+  <img src="./WELCOME.gif" alt="welcome gif" width="700" style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);">
 </p>
 
 
