@@ -1,4 +1,6 @@
-<img src="./WELCOME.gif" alt="welcome gif" width="800">
+<p align="center">
+  <img src="./WELCOME.gif" alt="welcome gif" width="700">
+</p>
 
 
 ## 👋 Hello World! I'm David Guntoro
