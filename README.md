@@ -70,6 +70,18 @@ Currently focusing on **Web developer**, and **Linux-based networking solutions*
   <a href="https://t.me/@vidynnn">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/vidyn_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/vidyn_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@viddyn_">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@xiroseven">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </p>
 
 ---
