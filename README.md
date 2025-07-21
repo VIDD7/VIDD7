@@ -13,7 +13,7 @@ Currently focusing on **Web developer**, and **Linux-based networking solutions*
 
 ### 🚀 About Me
 
-- 🎓 Student in **Computer & Network Engineering**  
+- 🎓 College student majoring in **Computer & Network Engineering**  
 - 💻 Exploring the world of **ethical hacking**, **network routing**, and **web systems**  
 - 🔐 Security enthusiast with a focus on **real-world pentesting**
 
