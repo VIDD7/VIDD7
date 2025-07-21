@@ -51,10 +51,16 @@ Currently focusing on **Web developer**, and **Linux-based networking solutions*
 
 ### 📈 Stats
 
+<!-- Statistik tetap di tengah -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VIDD7&show_icons=true&theme=tokyonight">
 </p>
+
+<!-- Badge visitor tampil di kiri -->
+<p style="margin-left: 0;">
   <img src="https://komarev.com/ghpvc/?username=VIDD7&color=blue&style=for-the-badge">
+</p>
+
 ---
 
 ### 📫 Let's Connect
