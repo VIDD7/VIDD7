@@ -21,7 +21,7 @@ Currently focusing on **Web developer**, and **Linux-based networking solutions*
 
 ### 🛠️ Skills
 
-<p align="center">
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
