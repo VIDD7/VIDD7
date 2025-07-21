@@ -63,7 +63,7 @@ Currently focusing on **Web developer**, and **Linux-based networking solutions*
 
 ### 📫 Let's Connect
 
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (mailto:xirooseven@gmail.com)
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" (mailto:xirooseven@gmail.com)
 - 🌐 Website: [https://vstra.my.id](https://vstra.my.id)
 - 💬 Telegram: [@vidynnn](https://t.me/@vidynnn)
 
