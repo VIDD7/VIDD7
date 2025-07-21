@@ -52,12 +52,10 @@ Currently focusing on **Web developer**, and **Linux-based networking solutions*
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIDD7&show_icons=true&theme=tokyonight">
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VIDD7&show_icons=true&theme=tokyonight"><br>
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=VIDD7&color=blue&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=VIDD7&color=blue&style=for-the-badge">
 </p>
+
 ---
 
 ### 📫 Let's Connect
