@@ -53,7 +53,6 @@ Currently focusing on **Web developer**, and **Linux-based networking solutions*
 <div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VIDD7&show_icons=true&theme=tokyonight">
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VIDD7&color=blue&style=for-the-badge">
