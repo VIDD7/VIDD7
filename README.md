@@ -50,7 +50,7 @@ Jika Anda merasa proyek atau kontribusi saya bermanfaat, Anda bisa mendukung say
 
 <p align="center">
 <!-- Pastikan Anda mengunggah Qris.jpg ke repositori GitHub Anda, misalnya di folder 'assets' -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/VIDD7/your-repo-name/main/assets/Qris.jpg" alt="QRIS David Guntoro" width="300">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/VIDD7/your-repo-name/main/assets/Qris.jpg](https://github.com/VIDD7/VIDD7/blob/main/Qris.jpg" alt="SCAN QRIS" width="300">
 <br>
 <span>NMID: ID202432996860</span>
 </p>
