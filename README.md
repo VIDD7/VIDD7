@@ -44,16 +44,7 @@ Currently focusing on Web developer, and Linux-based networking solutions.
 <br>
 <img src="https://komarev.com/ghpvc/?username=VIDD7&color=blue&style=for-the-badge" style="display: inline-block;">
 </p>
-💰 Dukung Saya!
 
-Jika Anda merasa proyek atau kontribusi saya bermanfaat, Anda bisa mendukung saya dengan berdonasi melalui QRIS ini. Terima kasih banyak atas dukungan Anda!
-
-<p align="center">
-<!-- Pastikan Anda mengunggah Qris.jpg ke repositori GitHub Anda, misalnya di folder 'assets' -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/VIDD7/your-repo-name/main/assets/Qris.jpg](https://github.com/VIDD7/VIDD7/blob/main/Qris.jpg" alt="SCAN QRIS" width="300">
-<br>
-<span>NMID: ID202432996860</span>
-</p>
 📫 Let's Connect
 
 <p>
